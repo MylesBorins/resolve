@@ -7,6 +7,5 @@
 		"tape": "^5.0.0"
 	},
 	"dependencies": {
-		"path-parse": "^1.0.6"
 	}
 }
